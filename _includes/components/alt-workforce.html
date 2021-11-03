@@ -1,0 +1,25 @@
+{% if workforce %}
+<section class="usa-workforce"{% if workforce.image %} style="background-image: url({{ workforce.image }})"{% endif %} aria-label="Introduction";>
+  <div class="grid-container">
+    <div class="usa-workforce__callout">
+      {% if workforce.callout %}
+      <h1 class="usa-workforce__heading">
+        {% if workforce.callout.alt %}
+        <span class="usa-workforce__heading--alt">{{ workforce.callout.alt }}</span>
+        {% endif %}
+        {{ workforce.callout.text | default: workforce.callout }}
+      </h1>
+      {% endif %}
+
+      {{ workforce.content | markdownify }}
+
+      {% if workforce.button %}
+      <a class="usa-button"
+        href="{{ workforce.button.href | relative_url }}">
+        {{ workforce.button.text }}
+      </a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endif %}

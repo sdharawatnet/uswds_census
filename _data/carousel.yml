@@ -1,0 +1,99 @@
+data: 
+  - week: WEEK 0
+    timeline: July 1 - July 5
+    primaryHeader: Join our Slack Community
+    primaryText: New to Slack? Check out this page to get some tips on getting started.
+    secondaryHeader: Optional User Engagement Workshop in Chicago
+    secondaryText: Join an incredible group of TOP participants in an interactive workshop to get a deeper understanding of how the program will unfold, and a preview of the next 12 weeks.
+    primaryDate:
+    secondaryDate: July 2
+  - week: WEEK 1
+    timeline: July 8 - July 12
+    primaryHeader: Problem Statement Orientation
+    primaryText: Dive into the weeds about your problem statement, and get more information about the goals of each challenge.
+    secondaryHeader: User Research
+    secondaryText: In parallel to learning about the problem statements, learn more about the communities that are most affected by them and what their experiences, needs and challenges are like
+    primaryDate:
+    secondaryDate: 
+  - week: WEEK 2
+    timeline: July 15 - July 19
+    primaryHeader: User Research Milestone 
+    primaryText: Teams join the virtual milestone to share findings from user research that will inform the design of their product, and connect with user advocates to get feedback
+    secondaryHeader: 
+    secondaryText:
+    primaryDate: July 18
+    secondaryDate: 
+  - week: WEEK 3
+    timeline: July 22 - July 26
+    primaryHeader: User Research + Data Exploration
+    primaryText: Teams continue to conduct user research and begin to explore available data sets
+    secondaryHeader: 
+    secondaryText:
+    primaryDate:
+    secondaryDate:  
+  - week: WEEK 4
+    timeline: July 29 - August 2
+    primaryHeader: Continue Data Exploration
+    primaryText: Teams continue to explore available data sets
+    secondaryHeader: Data Dive Milestone
+    secondaryText: Teams join the virtual milestone to hear from data stewards and ask questions on available data sets
+    primaryDate:
+    secondaryDate: Aug 1
+  - week: WEEK 5
+    timeline: August 5 - August 9
+    primaryHeader: Data Exploration & Product Development
+    primaryText: Teams explore available data sets, connect with data stewards, and begin scoping/developing products 
+    secondaryHeader: 
+    secondaryText: 
+    primaryDate:
+    secondaryDate: 
+  - week: WEEK 6
+    timeline: August 12 - August 16
+    primaryHeader: Alpha Demo Milestone 
+    primaryText: Participants come together for a virtual demo of the tools in progress. Teams share concepts and wireframes, and get feedback from user advocates, data stewards, and product experts.
+    secondaryHeader: 
+    secondaryText: 
+    primaryDate: Aug 18
+    secondaryDate: 
+  - week: WEEK 7
+    timeline: August 19 - August 23
+    primaryHeader: Product Development & User Testing
+    primaryText: Teams continue building products and collect user feedback
+    secondaryHeader: 
+    secondaryText:
+    primaryDate:
+    secondaryDate: 
+  - week: WEEK 8
+    timeline: August 26 - August 30
+    primaryHeader: Beta Demos Milestone 
+    primaryText: Teams come together to showcase and share feedback on more mature versions of their products. Typically, tools have reached at least wireframes and have some functioning features.
+    secondaryHeader: 
+    secondaryText: 
+    primaryDate: Aug 29
+    secondaryDate: 
+  - week: WEEK 9
+    timeline: September 2 - September 6
+    primaryHeader: Product Development & User Testing
+    primaryText: Teams continue building products and conduct user testing
+    secondaryHeader: Labor Day - Sept 2nd
+    secondaryText: 
+    primaryDate:
+    secondaryDate: 
+  - week: WEEK 10
+    timeline: September 16 - September 20
+    primaryHeader: Product Development
+    primaryText: Teams continue building prototypes/products
+    secondaryHeader: 
+    secondaryText: 
+    primaryDate:
+    secondaryDate: 
+  - week: WEEK 11
+    timeline: September 23 - September 27
+    primaryHeader: Present final MVPs
+    primaryText: Teams share MVP with TOP team prior to collective rollout
+    secondaryHeader: 
+    secondaryText: 
+    primaryDate:
+    secondaryDate: 
+  
+    
